@@ -45,7 +45,6 @@ pod install
 ```
 Abra o arquivo `AppBackFront.xcworkspace` no Xcode.
 Execute o app em um simulador ou dispositivo real (iOS 13.0+ recomendado).
-<<<<<<< HEAD
 
 ## 🔐 Configuração do Firebase (Necessário para Execução)
 Para que o projeto funcione corretamente com as funcionalidades de autenticação, é necessário configurar o seu próprio projeto no Firebase:
